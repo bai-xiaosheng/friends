@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "userAccount": "123456",
+    "userName": "12365",
+    "userUrl": "https://pic3.zhimg.com/v2-f14591e264708123e97ce9b14f8e7422_r.jpg",
+    "gender": 1,
+    "userPassword": null,
+    "userStatus": 0,
+    "createTime": "2024-05-05T16:01:19.000+00:00",
+    "updateTime": null,
+    "isDelete": null,
+    "userRole": 0
+  },
+  {
+    "id": 2,
+    "userAccount": "12345675",
+    "userName": null,
+    "userUrl": null,
+    "gender": null,
+    "userPassword": null,
+    "userStatus": 0,
+    "createTime": "2024-05-05T20:20:42.000+00:00",
+    "updateTime": null,
+    "isDelete": null,
+    "userRole": 0
+  },
+  {
+    "id": 3,
+    "userAccount": "dogyupi",
+    "userName": null,
+    "userUrl": null,
+    "gender": null,
+    "userPassword": null,
+    "userStatus": 0,
+    "createTime": "2024-05-05T21:20:09.000+00:00",
+    "updateTime": null,
+    "isDelete": null,
+    "userRole": 1
+  }
+]

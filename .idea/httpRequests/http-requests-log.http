@@ -1,0 +1,288 @@
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=2BF3A7644D6F7FCF1A7D4B30BCCDD728
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-07T113801.200.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=2BF3A7644D6F7FCF1A7D4B30BCCDD728
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "userAccount": "dogyupi",
+  "userPassword": "12345678"
+}
+
+<> 2024-05-07T113757.200.json
+
+###
+
+# @no-cookie-jar
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=2BF3A7644D6F7FCF1A7D4B30BCCDD728
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=2BF3A7644D6F7FCF1A7D4B30BCCDD728
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=2BF3A7644D6F7FCF1A7D4B30BCCDD728
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=2BF3A7644D6F7FCF1A7D4B30BCCDD728
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=2BF3A7644D6F7FCF1A7D4B30BCCDD728
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=2BF3A7644D6F7FCF1A7D4B30BCCDD728
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-07T110519.200.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "userAccount": "dogyupi",
+  "userPassword": "12345678"
+}
+
+<> 2024-05-07T110326.200.json
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-07T110323.200.json
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-07T110107.500.json
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-07T105605.500.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "userAccount": "dogyupi",
+  "userPassword": "12345678"
+}
+
+<> 2024-05-07T105540.200.json
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=384DE913266CDFE6AC95F8CD6F8327EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=09489DC2FB158E33ED4685905C435AA9
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/user/search
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=09489DC2FB158E33ED4685905C435AA9
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-07T104926.500.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=5EF9C260BCA4F4E5FBD90095A1145766
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "userAccount": "dogyupi",
+  "userPassword": "12345678"
+}
+
+<> 2024-05-07T104837.200.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "userAccount": "dogyupi",
+  "userPassword": "12345678"
+}
+
+<> 2024-05-06T201741.200.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "userAccount": "dogyupi",
+  "userPassword": "12345678"
+}
+
+<> 2024-05-06T201346.500.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "userAccount": "dogyupi",
+  "userPassword": "12345678"
+}
+
+<> 2024-05-06T200717.500.json
+
+###
+
